@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://wukang0718.com/2021/09/07/%E7%AC%AC%E4%BA%8C%E7%AF%87-Vue3-%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%9B%86%E6%88%90-element-plus/</loc>
+    <lastmod>2021-09-07</lastmod>
+  </url>
+  <url>
     <loc>https://wukang0718.com/2021/09/04/vue-router%E4%B8%ADquery%E5%8F%82%E6%95%B0%E5%81%9A%E8%87%AA%E5%8A%A8%E5%8A%A0%E5%AF%86%E3%80%81%E8%A7%A3%E5%AF%86/</loc>
     <lastmod>2021-09-07</lastmod>
   </url>
@@ -10,10 +14,6 @@
   </url>
   <url>
     <loc>https://wukang0718.com/2021/09/06/%E7%AC%AC%E4%B8%80%E7%AF%87-%E4%BD%BF%E7%94%A8vue-cli%20%E5%88%9B%E5%BB%BAVue3%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2021-09-07</lastmod>
-  </url>
-  <url>
-    <loc>https://wukang0718.com/2021/09/07/%E7%AC%AC%E4%BA%8C%E7%AF%87-Vue3-%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%9B%86%E6%88%90-element-plus/</loc>
     <lastmod>2021-09-07</lastmod>
   </url>
 </urlset> 
