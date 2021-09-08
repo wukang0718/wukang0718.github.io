@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wukang0718.com/2021/09/08/%E7%AC%AC%E4%B8%89%E7%AF%87-vue3-%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%85%8D%E7%BD%AE%E6%A8%A1%E5%BC%8F%E5%92%8C%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/</loc>
+    
+    <lastmod>2021-09-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://wukang0718.com/2021/09/07/%E7%AC%AC%E4%BA%8C%E7%AF%87-Vue3-%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%9B%86%E6%88%90-element-plus/</loc>
     
     <lastmod>2021-09-07</lastmod>
@@ -53,7 +60,7 @@
 
   <url>
     <loc>https://wukang0718.com/</loc>
-    <lastmod>2021-09-07</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -61,49 +68,49 @@
   
   <url>
     <loc>https://wukang0718.com/tags/vue/</loc>
-    <lastmod>2021-09-07</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://wukang0718.com/tags/vue-router/</loc>
-    <lastmod>2021-09-07</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://wukang0718.com/tags/EventLoop/</loc>
-    <lastmod>2021-09-07</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://wukang0718.com/tags/%E5%BE%AE%E4%BB%BB%E5%8A%A1/</loc>
-    <lastmod>2021-09-07</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://wukang0718.com/tags/%E5%AE%8F%E4%BB%BB%E5%8A%A1/</loc>
-    <lastmod>2021-09-07</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://wukang0718.com/tags/vue-cli/</loc>
-    <lastmod>2021-09-07</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://wukang0718.com/tags/vue3/</loc>
-    <lastmod>2021-09-07</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -112,28 +119,28 @@
   
   <url>
     <loc>https://wukang0718.com/categories/Vue%E6%8F%92%E4%BB%B6/</loc>
-    <lastmod>2021-09-07</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://wukang0718.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
-    <lastmod>2021-09-07</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://wukang0718.com/categories/vue/</loc>
-    <lastmod>2021-09-07</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://wukang0718.com/categories/vue/vue3%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2021-09-07</lastmod>
+    <lastmod>2021-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
