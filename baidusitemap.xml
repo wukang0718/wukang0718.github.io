@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://wukang0718.com/2023/02/26/mysql%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</loc>
+    <lastmod>2023-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://wukang0718.com/2023/02/26/docker-%E5%90%AF%E5%8A%A8mysql/</loc>
+    <lastmod>2023-02-26</lastmod>
+  </url>
+  <url>
     <loc>https://wukang0718.com/2022/09/02/ref%E6%BA%90%E7%A0%81/</loc>
     <lastmod>2022-09-02</lastmod>
   </url>
