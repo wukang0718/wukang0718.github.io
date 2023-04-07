@@ -6,7 +6,7 @@
   <link href="https://wukang0718.github.io/atom.xml" rel="self"/>
   
   <link href="https://wukang0718.github.io/"/>
-  <updated>2023-03-09T03:05:25.835Z</updated>
+  <updated>2023-04-07T02:35:10.537Z</updated>
   <id>https://wukang0718.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>从npm迁移到pnpm</title>
+    <link href="https://wukang0718.github.io/2023/04/07/%E4%BB%8Enpm%E8%BF%81%E7%A7%BB%E5%88%B0pnpm/"/>
+    <id>https://wukang0718.github.io/2023/04/07/%E4%BB%8Enpm%E8%BF%81%E7%A7%BB%E5%88%B0pnpm/</id>
+    <published>2023-04-07T02:12:10.000Z</published>
+    <updated>2023-04-07T02:35:10.537Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="从npm迁移到pnpm：实现npm和pnpm之间的无缝迁移"><a href="#从npm迁移到pnpm：实现npm和pnpm之间的无缝迁移" class="headerlink" title="从npm迁移到pnpm：实现npm和pnpm之间的无缝迁移"></a>从npm迁移到pnpm：实现npm和pnpm之间的无缝迁移</h2><p>随着npm的广泛使用，许多开发人员开始将其作为依赖管理工具。然而，随着npm的版本更新和社区的变化，一些开发人员可能会选择将npm迁移到另一个包管理器，如pnpm。本文将介绍如何实现npm和pnpm之间的无缝迁移。</p><h3 id="了解npm和pnpm的主要区别"><a href="#了解npm和pnpm的主要区别" class="headerlink" title="了解npm和pnpm的主要区别"></a>了解npm和pnpm的主要区别</h3><p>npm是一个轻量级的包管理器，它主要用于处理npm包，而pnpm是一个全功能的包管理器，它可以处理npm包和其他类型的依赖项。此外，pnpm还提供了一些高级功能，如版本控制和本地仓库。</p><h3 id="如何将npm迁移到pnpm"><a href="#如何将npm迁移到pnpm" class="headerlink" title="如何将npm迁移到pnpm"></a>如何将npm迁移到pnpm</h3><p>要将npm迁移到pnpm，您需要执行以下步骤：</p><ol><li>卸载npm包：首先，将npm包从当前项目中卸载。<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rm -rf node_modules</span><br></pre></td></tr></table></figure></li><li>安装pnpm：安装pnpm，以便您可以在项目中使用它。<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g pnpm</span><br></pre></td></tr></table></figure></li><li>在项目目录下创建<code>.npmrc</code>的文件<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"># pnpm 配置</span><br><span class="line">shamefully-hoist=true</span><br><span class="line">auto-install-peers=true</span><br><span class="line">strict-peer-dependencies=false</span><br></pre></td></tr></table></figure></li><li>将 <code>package-lock.json</code> 和 <code>yarn.lock</code> 转成 <code>pnpm-lock.yaml</code> 文件，保证依赖版本不变<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pnpm import</span><br></pre></td></tr></table></figure></li><li>通过 <code>pnpm</code> 安装依赖包<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pnpm install</span><br></pre></td></tr></table></figure></li></ol><p>迁移完成！</p><blockquote><p>在项目正常运行之后，可以删除原本的 <code>package-lock.json</code>和<code>yarn.lock</code> 文件，保持项目的整洁</p></blockquote><h3 id="参考文档："><a href="#参考文档：" class="headerlink" title="参考文档："></a>参考文档：</h3><p><a href="https://pnpm.io/zh/">pnpm</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;从npm迁移到pnpm：实现npm和pnpm之间的无缝迁移&quot;&gt;&lt;a href=&quot;#从npm迁移到pnpm：实现npm和pnpm之间的无缝迁移&quot; class=&quot;headerlink&quot; title=&quot;从npm迁移到pnpm：实现npm和pnpm之间的无缝迁移&quot;&gt;&lt;/a</summary>
+      
+    
+    
+    
+    <category term="pnpm" scheme="https://wukang0718.github.io/categories/pnpm/"/>
+    
+    
+    <category term="pnpm" scheme="https://wukang0718.github.io/tags/pnpm/"/>
+    
+  </entry>
   
   <entry>
     <title>docker 运行 jenkins</title>
