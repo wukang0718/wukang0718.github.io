@@ -165,20 +165,6 @@
 
   
   <url>
-    <loc>https://wukang0718.github.io/tags/WebWorker/</loc>
-    <lastmod>2023-04-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wukang0718.github.io/tags/ThreeJs/</loc>
-    <lastmod>2023-04-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wukang0718.github.io/tags/vue3/</loc>
     <lastmod>2023-04-12</lastmod>
     <changefreq>daily</changefreq>
@@ -187,6 +173,20 @@
   
   <url>
     <loc>https://wukang0718.github.io/tags/computed/</loc>
+    <lastmod>2023-04-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wukang0718.github.io/tags/WebWorker/</loc>
+    <lastmod>2023-04-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wukang0718.github.io/tags/ThreeJs/</loc>
     <lastmod>2023-04-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -207,13 +207,6 @@
   </url>
   
   <url>
-    <loc>https://wukang0718.github.io/tags/jenkins/</loc>
-    <lastmod>2023-04-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wukang0718.github.io/tags/effect/</loc>
     <lastmod>2023-04-12</lastmod>
     <changefreq>daily</changefreq>
@@ -221,21 +214,14 @@
   </url>
   
   <url>
+    <loc>https://wukang0718.github.io/tags/jenkins/</loc>
+    <lastmod>2023-04-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wukang0718.github.io/tags/ref/</loc>
-    <lastmod>2023-04-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wukang0718.github.io/tags/vue/</loc>
-    <lastmod>2023-04-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wukang0718.github.io/tags/vue-router/</loc>
     <lastmod>2023-04-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -264,6 +250,20 @@
   
   <url>
     <loc>https://wukang0718.github.io/tags/pnpm/</loc>
+    <lastmod>2023-04-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wukang0718.github.io/tags/vue/</loc>
+    <lastmod>2023-04-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wukang0718.github.io/tags/vue-router/</loc>
     <lastmod>2023-04-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -307,14 +307,14 @@
 
   
   <url>
-    <loc>https://wukang0718.github.io/categories/WebWorker/</loc>
+    <loc>https://wukang0718.github.io/categories/vue3/</loc>
     <lastmod>2023-04-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://wukang0718.github.io/categories/vue3/</loc>
+    <loc>https://wukang0718.github.io/categories/WebWorker/</loc>
     <lastmod>2023-04-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -342,7 +342,7 @@
   </url>
   
   <url>
-    <loc>https://wukang0718.github.io/categories/Vue%E6%8F%92%E4%BB%B6/</loc>
+    <loc>https://wukang0718.github.io/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
     <lastmod>2023-04-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -356,14 +356,14 @@
   </url>
   
   <url>
-    <loc>https://wukang0718.github.io/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
+    <loc>https://wukang0718.github.io/categories/pnpm/</loc>
     <lastmod>2023-04-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://wukang0718.github.io/categories/pnpm/</loc>
+    <loc>https://wukang0718.github.io/categories/Vue%E6%8F%92%E4%BB%B6/</loc>
     <lastmod>2023-04-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
